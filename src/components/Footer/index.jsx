@@ -30,6 +30,9 @@ const Footer = () => {
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
                 A leading Payment Aggregator Company In Pakistan, operating since 2021
                 </p>
+                <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
+                Plot No. 542 Shah Khalid Colony, Sector 16A North Nazimabad, Karachi Pakistan.
+                </p>
                 <div className="flex items-center">
                   <a
                     href="/"
