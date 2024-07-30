@@ -45,16 +45,16 @@ const Header = () => {
         className={`header left-0 top-0 z-40 flex w-full items-center ${
           sticky
             ? "dark:bg-gray-dark dark:shadow-sticky-dark fixed z-[9999] bg-gray-dark !bg-opacity-80 shadow-sticky backdrop-blur-sm transition"
-            : "absolute bg-transparent"
+            : " bg-transparent fixed z-[9999]"
         }`}
       >
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
-            <div className="w-260 max-w-full  xl:mr-12">
+            <div className=" max-w-full  xl:mr-12">
               <Link
                 href="/"
-                className={`header-logo block w-full ${
-                  sticky ? "py-1 lg:py-2" : ""
+                className={`header-logo block   ${
+                  sticky ? "py-1 lg:py-2" : "py-8 "
                 } `}
               >
                 <Image
