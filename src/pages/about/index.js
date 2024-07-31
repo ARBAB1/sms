@@ -6,10 +6,10 @@ const About = () => {
     return (
         <section className=' relative xl:pt-[10px] pt-[60px] md:pb-[120px] md:pt-[150px] xl:padding-l wide:padding-r padding-b'>
        
-        <Breadcrumb
-        pageName="About Page"
+        {/* <Breadcrumb
+        pageName="About Us"
         description=" A leading Payment Aggregator Company In Pakistan, operating since 2021"
-      />
+      /> */}
       <AboutSectionOne />
       <AboutSectionTwo />
 

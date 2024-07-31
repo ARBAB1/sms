@@ -1,5 +1,5 @@
 
-# Learning Management System (LMS)
+# Smart Module Services (LMS)
 
 ![License](https://img.shields.io/github/license/yourusername/lms)
 ![Issues](https://img.shields.io/github/issues/yourusername/lms)
@@ -21,7 +21,7 @@
 
 ## About the Project
 
-The Learning Management System (LMS) is a comprehensive platform designed to facilitate online education and training. It provides educators with tools to create, manage, and deliver courses, while allowing learners to access course materials, participate in discussions, and track their progress.
+The Smart Module Services is the company which provide many financial solutions.
 
 ## Features
 
