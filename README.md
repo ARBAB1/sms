@@ -1,5 +1,5 @@
 
-# Smart Module Services (LMS)
+# Smart Module Services (SMS)
 
 ![License](https://img.shields.io/github/license/yourusername/lms)
 ![Issues](https://img.shields.io/github/issues/yourusername/lms)
